@@ -2,6 +2,8 @@
 
 <p align="center">Welcome to Acid's Github! 👨‍💻</p>
 
+</br>
+
 <h3 align="center">⚒️ Tech Stack</h3>
 
 <div align="center">
