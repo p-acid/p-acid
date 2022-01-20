@@ -19,7 +19,7 @@
 <h4 align="center">🔗 About</h4>
 
 <div align="center">
-  <a href="https://acid-log.netlify.app/"><img src="https://img.shields.io/badge/Blog-0288D1?style=flat-square&logo=BookStack&logoColor=white" /></a>
+  <a href="https://acid-log.vercel.app/"><img src="https://img.shields.io/badge/Blog-0288D1?style=flat-square&logo=BookStack&logoColor=white" /></a>
   <a href="https://twitter.com/Ac_idi_ty"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" /></a>
 </div>
 
