@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=300&section=header&text=💦%20Acid&fontSize=90&fontColor=f7f7f7)
 
-<p align="center">Welcome to Acid's Github! 👨‍💻</p>
+<p align="center">Welcome to Samuel's Github! 👨‍💻</p>
 
 </br>
 
